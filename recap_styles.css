@@ -1,0 +1,18 @@
+body {
+  /*background-color: pink;*/
+}
+
+code{
+  color: red;
+}
+span{
+  color:black;
+}
+pre{
+  color:black;
+  border-top-style: outset;
+  border-bottom-style: inset;
+  border-left-style: outset;
+  border-right-style: inset;
+  background-color: #D3D3D3;
+}
