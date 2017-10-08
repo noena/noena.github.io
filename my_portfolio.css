@@ -1,0 +1,64 @@
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css?family=Maven+Pro'); /*default font */
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+body{
+  background-color: #FFFFFF;
+  margin: 0 0 0 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 14px;
+  color: #585858;
+}
+
+h3.myfont{
+  color: #800080;
+}
+h4.description{
+  color:#CC7178;
+}
+p.myfont{
+  color: #ffffff;
+}
+a.helper{
+  background-color: #CC7178;
+  border-color: #CC7178;
+}
+a.helper:hover{
+  background-color:#FFD9DA;
+  border-color: #FFD9DA;
+}
+.nav-social{
+  padding-right: 25px;
+}
+div.social{
+  padding-left: 680px;
+}
+div.intro{
+  background-color: #FFD9DA;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #000000;
+}
+
+.social .fa-facebook:hover {
+    color: #4060A5;
+}
+
+.social .fa-twitter:hover {
+    color: #00ABE3;
+}
+
+.social .fa-google-plus:hover {
+    color: #e64522;
+}
+
+.social .fa-linkedin:hover {
+    color: #0094BC;
+}
+img.gallery{
+  width: 200px;
+  height: auto;
+  padding: 0;
+  margin: 0;
+}
